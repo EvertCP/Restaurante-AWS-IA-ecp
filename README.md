@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Evert Cárdenas
-=======
 Alan Miguel Crispin Rivera
 
 Alan Tonatiuh Romero Garcia
@@ -12,4 +9,5 @@ Daniel B.
 Morthi
 
 Luis Miguel Sánchez
->>>>>>> upstream/main
+
+Evert Cardenas
